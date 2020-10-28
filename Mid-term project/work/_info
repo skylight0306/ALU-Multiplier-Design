@@ -1,0 +1,296 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Desktop/computer organization
+vALU
+Z1 !s110 1557919043
+!i10b 1
+!s100 TzYL^K3_nB?88Zz]MWAdY0
+IBOLY3m63@1h?:lDViZ;Lc3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1557864866
+8C:/Users/User/Desktop/computer organization/ALU.v
+FC:/Users/User/Desktop/computer organization/ALU.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1557919043.000000
+!s107 C:/Users/User/Desktop/computer organization/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/ALU.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vALUControl
+R1
+!i10b 1
+!s100 1a8:bW:DaIRhFUzR9?bQH0
+I9R4_N9EP`cZndSLz]LVKJ3
+R2
+R0
+w1557862284
+8C:/Users/User/Desktop/computer organization/ALUControl.v
+FC:/Users/User/Desktop/computer organization/ALUControl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/computer organization/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/ALUControl.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u@control
+vFA
+R1
+!i10b 1
+!s100 =SBF8P<NbG59n2d5dDF6l1
+IfQABSBNoe7C4h<ldMLOCR2
+R2
+R0
+w1557860947
+8C:/Users/User/Desktop/computer organization/FA.v
+FC:/Users/User/Desktop/computer organization/FA.v
+L0 22
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/computer organization/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/FA.v|
+!s101 -O0
+!i113 1
+R5
+n@f@a
+vHiLo
+Z6 !s110 1557919044
+!i10b 1
+!s100 _[cZO=d_BZU92oXn3aPGg0
+Ibilk:97Q8h`R>>N8c9boF2
+R2
+R0
+w1557660422
+8C:/Users/User/Desktop/computer organization/HiLo.v
+FC:/Users/User/Desktop/computer organization/HiLo.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1557919044.000000
+!s107 C:/Users/User/Desktop/computer organization/HiLo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/HiLo.v|
+!s101 -O0
+!i113 1
+R5
+n@hi@lo
+vMultipler
+R6
+!i10b 1
+!s100 eUk[OAG[VWi9BPke8493W1
+I:oo:UIZlPCbnl3P5HbDK@1
+R2
+R0
+w1557918991
+Z8 8C:/Users/User/Desktop/computer organization/Multipler.v
+Z9 FC:/Users/User/Desktop/computer organization/Multipler.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+Z10 !s107 C:/Users/User/Desktop/computer organization/Multipler.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/Multipler.v|
+!s101 -O0
+!i113 1
+R5
+n@multipler
+vMultiplier
+!s110 1557913119
+!i10b 1
+!s100 =cMHB;2F3N9G[^hTgF0_I0
+I3hO^5@LXgMXNnemP]^TX92
+R2
+R0
+w1557913053
+R8
+R9
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1557913119.000000
+R10
+R11
+!s101 -O0
+!i113 1
+R5
+n@multiplier
+vMUX
+R6
+!i10b 1
+!s100 MbZ=4ORLb7aWOJh6Hi2bE1
+I7Lg8acEho;[S=c7USD`m<0
+R2
+R0
+Z12 w1557863685
+8C:/Users/User/Desktop/computer organization/MUX.v
+FC:/Users/User/Desktop/computer organization/MUX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/computer organization/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/MUX.v|
+!s101 -O0
+!i113 1
+R5
+n@m@u@x
+vmux2X1
+R6
+!i10b 1
+!s100 Ce3G9elBgP6JoF5VS>Ve10
+I=YMo`;C5QSOI1?8]BC3mN3
+R2
+R0
+w1557655538
+8C:/Users/User/Desktop/computer organization/mux2X1.v
+FC:/Users/User/Desktop/computer organization/mux2X1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/computer organization/mux2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/mux2X1.v|
+!s101 -O0
+!i113 1
+R5
+nmux2@x1
+vOneBit
+R6
+!i10b 1
+!s100 QcX]P1egcHFOR4bnG10kX2
+IVVCi>oOJ;;W82E3:zY>zA3
+R2
+R0
+R12
+8C:/Users/User/Desktop/computer organization/OneBit.v
+FC:/Users/User/Desktop/computer organization/OneBit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/computer organization/OneBit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/OneBit.v|
+!s101 -O0
+!i113 1
+R5
+n@one@bit
+vOneBit_32
+R6
+!i10b 1
+!s100 hbJ8?cE]6n<Fa<0WV?daH0
+IK5Gakg`9<:6kZRWhBOid61
+R2
+R0
+w1557864398
+8C:/Users/User/Desktop/computer organization/OneBit_32.v
+FC:/Users/User/Desktop/computer organization/OneBit_32.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/computer organization/OneBit_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/OneBit_32.v|
+!s101 -O0
+!i113 1
+R5
+n@one@bit_32
+vShifter
+R6
+!i10b 1
+!s100 4E@jXU5TTjOinfjUVmPAR0
+Iai[hQ=DLOTV@M>Mf5WaX?1
+R2
+R0
+w1557826891
+8C:/Users/User/Desktop/computer organization/Shifter.v
+FC:/Users/User/Desktop/computer organization/Shifter.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/computer organization/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/Shifter.v|
+!s101 -O0
+!i113 1
+R5
+n@shifter
+vtb_ALU
+R6
+!i10b 1
+!s100 jVlU[GfbDToKhLMBLM]_X0
+IigA[oPKhY1h8_gdAmLh7O2
+R2
+R0
+w1557910697
+8C:\Users\User\Desktop\computer organization\tb_ALU.v
+FC:\Users\User\Desktop\computer organization\tb_ALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\User\Desktop\computer organization\tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\User\Desktop\computer organization\tb_ALU.v|
+!s101 -O0
+!i113 1
+R5
+ntb_@a@l@u
+vTotalALU
+R1
+!i10b 1
+!s100 ccEPQBAG9ELOjK82E<?hl2
+I@f^:6YZF<bOOE]f=IzCWl1
+R2
+R0
+w1557914212
+8C:/Users/User/Desktop/computer organization/TotalALU.v
+FC:/Users/User/Desktop/computer organization/TotalALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/computer organization/TotalALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/computer organization/TotalALU.v|
+!s101 -O0
+!i113 1
+R5
+n@total@a@l@u
