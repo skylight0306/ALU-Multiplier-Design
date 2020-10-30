@@ -1,0 +1,85 @@
+{C:/Users/User/Desktop/computer organization/Shifter.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/Shifter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} {C:/Users/User/Desktop/computer organization/OneBit_32.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/OneBit_32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OneBit_32
+
+Top level modules:
+	OneBit_32
+
+} {} {}} {C:/Users/User/Desktop/computer organization/Multipler.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/Multipler.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Multipler
+
+Top level modules:
+	Multipler
+
+} {} {}} {C:/Users/User/Desktop/computer organization/TotalALU.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/TotalALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TotalALU
+
+Top level modules:
+	TotalALU
+
+} {} {}} {C:/Users/User/Desktop/computer organization/FA.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/FA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/User/Desktop/computer organization/OneBit.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/OneBit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OneBit
+
+Top level modules:
+	OneBit
+
+} {} {}} {C:/Users/User/Desktop/computer organization/ALU.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/User/Desktop/computer organization/MUX.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/MUX.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {C:/Users/User/Desktop/computer organization/HiLo.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/HiLo.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HiLo
+
+Top level modules:
+	HiLo
+
+} {} {}} {C:/Users/User/Desktop/computer organization/mux2X1.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/mux2X1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} {C:/Users/User/Desktop/computer organization/tb_ALU.v} {1 {vlog -work work -stats=none {C:\Users\User\Desktop\computer organization\tb_ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} {C:/Users/User/Desktop/computer organization/ALUControl.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/computer organization/ALUControl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}}
