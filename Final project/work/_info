@@ -1,0 +1,461 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/Desktop/final
+vabit
+!s110 1560335383
+!i10b 1
+!s100 a1aC6bLZC__DhlSG^8Zoz2
+IenYJXf<;`F_aQ`iDFOdNK2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1529077217
+8C:/Users/User/Desktop/final/abit.v
+FC:/Users/User/Desktop/final/abit.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1560335383.000000
+!s107 C:/Users/User/Desktop/final/abit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/abit.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vadd32
+Z4 !s110 1560338471
+!i10b 1
+!s100 QV<0ZKKd^9l`>f?T>;17f2
+I12af7^<cD^Mlo>KA@eG7[2
+R1
+R0
+w1323725068
+8C:/Users/User/Desktop/final/add32.v
+FC:/Users/User/Desktop/final/add32.v
+L0 5
+R2
+r1
+!s85 0
+31
+Z5 !s108 1560338471.000000
+!s107 C:/Users/User/Desktop/final/add32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/add32.v|
+!s101 -O0
+!i113 1
+R3
+valu
+R4
+!i10b 1
+!s100 XWRB<FRP@QIRQ]fg3D=5Q0
+IPhJlSoGz^UcMePMI5cH6e2
+R1
+R0
+w1560336368
+8C:/Users/User/Desktop/final/alu.v
+FC:/Users/User/Desktop/final/alu.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/alu.v|
+!s101 -O0
+!i113 1
+R3
+valu_ctl
+R4
+!i10b 1
+!s100 f;Okd0H1EdZBW>4dEHHYf3
+IYmYg?j0=[d`gjde8Vn>ma3
+R1
+R0
+w1529073796
+8C:/Users/User/Desktop/final/alu_ctl.v
+FC:/Users/User/Desktop/final/alu_ctl.v
+L0 11
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/alu_ctl.v|
+!s101 -O0
+!i113 1
+R3
+vcontrol_single
+R4
+!i10b 1
+!s100 T86UA;V2CAzNKoI4>B2J52
+I`YAFPB7K29RjibWQA@0L53
+R1
+R0
+w1560332003
+8C:/Users/User/Desktop/final/control_single.v
+FC:/Users/User/Desktop/final/control_single.v
+L0 17
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/control_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/control_single.v|
+!s101 -O0
+!i113 1
+R3
+vEX_MEM
+R4
+!i10b 1
+!s100 mSj2<?XJ6Y_Rn_mDgKd<H1
+IZIAZaCHV84ZICO4Zm@A8U2
+R1
+R0
+w1560332044
+8C:/Users/User/Desktop/final/EX_MEM.v
+FC:/Users/User/Desktop/final/EX_MEM.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/EX_MEM.v|
+!s101 -O0
+!i113 1
+R3
+n@e@x_@m@e@m
+vFA
+R4
+!i10b 1
+!s100 @zb>iKKNT_:cj56<V83^j1
+IoPVhVH2@zY]_WB`^W2oYD2
+R1
+R0
+w1529077228
+8C:/Users/User/Desktop/final/instr_split.v
+FC:/Users/User/Desktop/final/instr_split.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/instr_split.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/instr_split.v|
+!s101 -O0
+!i113 1
+R3
+n@f@a
+vID_EX
+R4
+!i10b 1
+!s100 6O23<zJ_4fF<P1CBMBUob2
+Ifhjmg7:L6DOc5z@ld=bGB2
+R1
+R0
+w1560332260
+8C:/Users/User/Desktop/final/ID_EX.v
+FC:/Users/User/Desktop/final/ID_EX.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/ID_EX.v|
+!s101 -O0
+!i113 1
+R3
+n@i@d_@e@x
+vIF_ID
+R4
+!i10b 1
+!s100 1GAQ?[>YzGejE8HdbUWF@2
+If6O=PCE;2>>hzl_ZVODP^1
+R1
+R0
+w1529413388
+8C:/Users/User/Desktop/final/IF_ID.v
+FC:/Users/User/Desktop/final/IF_ID.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/IF_ID.v|
+!s101 -O0
+!i113 1
+R3
+n@i@f_@i@d
+vMEM_WB
+R4
+!i10b 1
+!s100 hYI;L3L=?<DGmla:WkjfX3
+I3Ba06g3_KMonRUX7c<M9@1
+R1
+R0
+w1529413402
+8C:/Users/User/Desktop/final/MEM_WB.v
+FC:/Users/User/Desktop/final/MEM_WB.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/MEM_WB.v|
+!s101 -O0
+!i113 1
+R3
+n@m@e@m_@w@b
+vmemory
+R4
+!i10b 1
+!s100 DY1hn5B6PF?X7CS1Hkf8@2
+IWP^mXQQ;EWBzn3[g8zH9E3
+R1
+R0
+Z6 w1323786478
+8C:/Users/User/Desktop/final/memory.v
+FC:/Users/User/Desktop/final/memory.v
+L0 14
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/final/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/memory.v|
+!s101 -O0
+!i113 1
+R3
+vmips_single
+Z7 !s110 1560338472
+!i10b 1
+!s100 ?P8MlS80Zz]6ZlP@;9h`=3
+I9A55DGzc8O;Gj1S:4A1lU2
+R1
+R0
+w1560338460
+8C:/Users/User/Desktop/final/mips_single.v
+FC:/Users/User/Desktop/final/mips_single.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z8 !s108 1560338472.000000
+!s107 C:/Users/User/Desktop/final/mips_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/mips_single.v|
+!s101 -O0
+!i113 1
+R3
+vmux2
+R7
+!i10b 1
+!s100 k7RnaEGa7k9I5X;o_c69A2
+IGAEedG^3S2HcY5AFhan8m2
+R1
+R0
+w1323725038
+8C:/Users/User/Desktop/final/mux2.v
+FC:/Users/User/Desktop/final/mux2.v
+L0 5
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/mux2.v|
+!s101 -O0
+!i113 1
+R3
+vmux2X1
+R7
+!i10b 1
+!s100 WfkWUU[lLEUcBFjmfhc:^0
+IGcADJIJ257N:K3Zzo[dXa3
+R1
+R0
+w1527521631
+8C:/Users/User/Desktop/final/mux2X1.v
+FC:/Users/User/Desktop/final/mux2X1.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/mux2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/mux2X1.v|
+!s101 -O0
+!i113 1
+R3
+nmux2@x1
+vOnebit
+R7
+!i10b 1
+!s100 `6Y_XYI8XXo0B7;hF5d^f2
+IQZMEfaMCa?MkE1jWbJb]M0
+R1
+R0
+w1560336499
+8C:/Users/User/Desktop/final/Onebit.v
+FC:/Users/User/Desktop/final/Onebit.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/Onebit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/Onebit.v|
+!s101 -O0
+!i113 1
+R3
+n@onebit
+vreg32
+R7
+!i10b 1
+!s100 X7D[Y7GI@:a]8[LLGKMAX0
+IT`g9jHjMOBC^W:68f[i6U0
+R1
+R0
+R6
+8C:/Users/User/Desktop/final/reg32.v
+FC:/Users/User/Desktop/final/reg32.v
+L0 13
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/reg32.v|
+!s101 -O0
+!i113 1
+R3
+vreg_file
+R7
+!i10b 1
+!s100 IK2[C4dJ=]TeN7i2VzI?G3
+I3^hXbLS[KXz@GGbXJ`@RU2
+R1
+R0
+R6
+8C:/Users/User/Desktop/final/reg_file.v
+FC:/Users/User/Desktop/final/reg_file.v
+L0 16
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/reg_file.v|
+!s101 -O0
+!i113 1
+R3
+vShifter
+R7
+!i10b 1
+!s100 JQmb1Oba=eZ@dW^0NSB=Q3
+I@N3ND=0>KMl3_c4lQLD483
+R1
+R0
+w1560335753
+8C:/Users/User/Desktop/final/Shifter.v
+FC:/Users/User/Desktop/final/Shifter.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/Shifter.v|
+!s101 -O0
+!i113 1
+R3
+n@shifter
+vsign_extend
+R7
+!i10b 1
+!s100 ;BRBgbIM?B8HFEl^T1oP@3
+IF58fToaeRSeejZgbjEP1;2
+R1
+R0
+w1529077314
+8C:/Users/User/Desktop/final/sign extend.v
+FC:/Users/User/Desktop/final/sign extend.v
+L0 10
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/sign extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/sign extend.v|
+!s101 -O0
+!i113 1
+R3
+vtb_SingleCycle
+R7
+!i10b 1
+!s100 3[1z9gXGQ?1_<B_:jn=9C0
+Ik^nSQ8]cebdEch0E`N68L0
+R1
+R0
+w1529413937
+8C:/Users/User/Desktop/final/tb_SingleCycle.v
+FC:/Users/User/Desktop/final/tb_SingleCycle.v
+L0 5
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/final/tb_SingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/final/tb_SingleCycle.v|
+!s101 -O0
+!i113 1
+R3
+ntb_@single@cycle
+vTotalALU
+R4
+!i10b 1
+!s100 E=ZRDSGCo]^[hH`ZhN<a`1
+IH1[e9m9Q9ROmFG:J09`lH1
+R1
+R0
+w1560338457
+8C:\Users\User\Desktop\final\TotalALU.v
+FC:\Users\User\Desktop\final\TotalALU.v
+L0 1
+R2
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\User\Desktop\final\TotalALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\User\Desktop\final\TotalALU.v|
+!s101 -O0
+!i113 1
+R3
+n@total@a@l@u
